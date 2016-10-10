@@ -1,0 +1,8 @@
+*.a
+*.o
+*.tgz
+*.log
+*.dvi
+*.tmp
+*.bak
+CASE-model

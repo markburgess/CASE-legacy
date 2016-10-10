@@ -1,0 +1,34 @@
+#
+# Make documentation
+#
+# This file is intended as a guide. You may need
+# to modify it a little on your system. Note that you
+# need the GNU texinfo package to run tex on this documentation!!
+# A postscript version is included since some people have had
+# problems here.
+#
+
+cfengine.ps: CASE.texinfo
+	tex CASE.texinfo
+	texindex CASE.vr CASE.cp
+	echo rescanning || tex CASE.texinfo
+	dvips -f CASE.dvi > case.ps
+	texi2html CASE.texinfo
+
+info:
+	makeinfo CASE.texinfo
+
+mostlyclean:
+	rm -f CASE.info* CASE.aux CASE.log
+	rm -f CASE.cp CASE.pg CASE.tp CASE.vr CASE.fn
+	rm -f CASE.ky CASE.toc CASE.cps CASE.vrs
+	rm -f *~ CASE.f CASE.fs
+	rm -f CASE.fns
+
+distclean:
+	make mostlyclean
+	rm -f CASE.dvi
+
+clean:
+	make mostlyclean
+	rm -f CASE.dvi

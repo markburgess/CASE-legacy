@@ -1,0 +1,188 @@
+Tue May 21 13:13:26 1996  Thomas Engh Sevaldrud  <sevaldt@borg (Thomas Engh Sevaldrud)>
+
+	* X2Dview.h: Dropped the "zoom_out" routine on the right mouse
+	button. Instead I made a callback routine called "widget_rt_click"
+	similar to the widget_click" routine.
+ 
+Tue May  7 11:39:42 1996  Cellular Automaton Projec  <cell@borg (Cellular Automaton Projec)>
+
+	* X2Dview.c (widget_dblclick): New callback resource. Changed name
+	on XtNselect callback resource to XtNclick. Both routines sends
+	logical coordinates of mouse pointer as call_data.
+
+Thu May  2 00:25:50 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c (X2DdrawRectangle): Two new drawing procedures,
+	X2DdrawRectangle and X2DfilledRectangle
+	(X2DinitPalette): New resource, XtNinstall. This is a boolean flag
+	which determines if we should install a private colormap. If True,
+	a new colormap will be made, with all cells allocated read/write.
+	The colors of the default colormap is copied into the new colormap
+	initially, but this can of course be changed, possibly making the
+	rest of your windows look like shit :-) The point of this is of
+	course to get a maximum number of colors ( <= 256).
+
+	(X2DinitPalette): Major rework of color routines (again).Widget
+	now uses an array of pixel values. This array is filled with
+	indices to free color cells through XAllocColorCells. Colors are
+	set in this array with the function
+	setrgbpalette. This function sets the RGB values of the color
+	pointed to by the value in index n in the palette array (puh :-).
+	X2DsetForeground now takes an index to the palette
+	array, instead of the colormap itself. The beauty of this approach
+	is that now I can reference the colors in my own palette from
+	index 0 and up to max available colors and be sure that when I
+	allocate a color at index n in the palette array, it will be in
+	position n, and not some random place as in an X Colormap.
+
+Tue Apr 30 13:08:45 1996  Thomas Engh Sevaldrud  <sevaldt@borg>
+
+	* X2Dview.c (X2DfilledEllipse): 4 new drawing functions,
+	X2DdrawEllipse, X2DfilledEllipse, X2DdrawArc, X2DfilledArc.
+
+Wed Apr 24 14:12:43 1996  Cellular Automaton Projec  <cell@borg (Cellular Automaton Projec)>
+
+	* X2Dview.c (select_widget): This routine now sends the mouse
+	pointer coordinates as callback data.
+
+Tue Apr 23 10:49:34 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c (X2DsetFont): New function for setting font for text
+	drawing functions. 
+
+Sun Apr 21 07:26:16 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c: fixed up the MULTIBUF routines.
+
+Thu Apr  4 14:00:21 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.doc: At last started writing some docs :-)
+
+	* X2Dview.c (X2DcurrentPageFront): New double-buffering
+	routines. Programming interface now consistes of two routines for
+	double buffering: X2DcurrentPageBack and CurrentPageFront. See doc
+	for details. New R6.1 double buffering extension
+	implemented. Compile with MB_DBE for Xdbe extension. Compile with
+	MB_MULTIBUF for old Xmbuf extension. X2Dview can not be compiled
+	with both these flags defined. 
+
+Wed Mar 20 11:23:29 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2DviewP.h Removed all references to dummy resource 'flag'
+
+Wed Mar 20 11:12:29 1996  Thomas Engh Sevaldrud  <sevaldt@borg (Thomas Engh Sevaldrud)>
+
+	* X2Dview.h: Changed all drawing routines to check a flag
+	'draw_pixmap' to decide whether or not to draw in the pixmap as
+	well as the window. This eliminates the 'X2DPixmap' and
+	'X2Dsimple' versions of all the drawing routines. 
+
+Wed Feb 28 09:36:01 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* trans2d.c: Cleaned up the rotation matrices by eliminating some 
+	cos and sin-calculations. 
+
+Mon Feb 26 12:45:13 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* trans2d.h: replaced all references to type 'point_coordinates', 
+	with dynamically allocated double-arrays.
+
+	* X2Dview.c (X2DdisplayCurrentBuffer): New routine for displaying
+	the current buffer in a double-buffered display. 
+	(X2DSwitchBuffer): Changed name from 'SwitchBuf'.
+
+Sun Feb 25 09:02:45 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c (X2DdrawPolygon): Began transforming all
+	'point_coordinates' types to double *, since 'point_coordinates'
+	is a fixed length array.
+
+	Does not function properly, must think of something else...
+
+Thu Feb 22 14:29:56 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.h: Removed all references to the 'palette' pixel array
+	used in earlier versions.
+	Changed name of X2DchangeGC to X2DchangeDrawingGC.
+
+	* X2Dview.c (start_zoom): Set timeout value to 100ms. The previous
+	value of 10 (!) caused problems on pentium based systems.
+
+	* X2Dview.h: Total rewrite of drawing function interface. All
+	colors are moved out of drawing functions and into
+	X2DSetForeground and Background. Pixel and RGB versions of these
+	two functions will be made. The "Widget" parameter is moved to the
+	front of all drawing function parameter lists.
+
+	This makes the widget incompatible with all previous versions.
+
+Wed Jan 31 21:55:45 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* widget_tools.c (GetToplevelWidget): New file for general widget
+	operations, like for instance this new function which returns the
+	toplevel widget associated with a given widget.
+
+	* X2Dview.c (X2DloadColormap): Implemented custom colormaps, tied
+	to the toplevel widget. The toplevel widget is accessed via the
+	toolkit routine GetToplevelWidget. 
+
+Sun Jan 28 14:23:34 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c (X2DloadColormap): New routine for loading of
+	colormaps from a file.
+
+Sat Jan 27 07:56:57 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c (X2DbufferPoint): Converted back to index based color
+	parameter. It was far to sluggish with the RGB based one.
+
+Fri Jan 26 14:21:52 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* X2Dview.c (X2DsetColorRGB): Some more verbosity in this routine
+	(X2DbufferPoint): Converted from index-based color parameter to
+	RGB based.
+
+Tue Sep 26 09:53:30 1995  Thomas Engh Sevaldrud  (Thomas@gandalf)
+
+	* X2Dview.c (X2DchangeGC): New convenience routine for changing
+	the GC values of the default drawing GC.
+
+Mon Aug 28 01:58:31 1995  Thomas Engh Sevaldrud  (Thomas@gandalf)
+
+	* X2Dview.c (X2DflushBuffer): Made the point buffer routines
+	by-pass the custom palette routines. Takes color index straight
+	from color map. Planning on a major change in the color routines.
+
+Sun Aug 27 02:43:14 1995  Thomas Engh Sevaldrud  (Thomas@gandalf)
+
+	* X2Dview.c (X2DclearAll): Did some minor changes to this routine,
+	because of a bug that turned out to not be in this routine at
+	all... but the changes shouldn't make any real difference.
+	(X2DsetOuterLimits): New convenience routine for setting the outer
+	limits of the coordinate system. (For zooming out).
+	Some more cleaning up in the code.
+
+Tue Aug 22 10:24:03 1995  Thomas Engh Sevaldrud  (Thomas@gandalf)
+
+	* X2Dview.c (X2DsetViewport): This routine now sets the default
+	(outer) coordinate boundaries for the widget as well as the actual
+	coordinate boundaries. This fixes zoom-out bug. 
+	(X2DdrawCircle): Fixed problem with transforming radius value.
+
+Mon Aug 21 01:31:47 1995  Thomas Engh Sevaldrud  (Thomas@gandalf)
+
+	* X2Dview.c (X2DdrawCircle): 6 new functions for drawing of
+	circles, both outlined and filled. Small problem with transforming
+	radius value from logical to actual value.
+
+	* X2Dview.h: Some cleanup in code. Made prototypes C++ friendly.
+
+Fri Aug 18 02:50:33 1995  Thomas Engh Sevaldrud  (Thomas@gandalf)
+
+	* X2Dview.c (X2DclearAll): Fixed this routine so that it clears
+	the whole pixmap/window, not only the parts of it that is
+	exposed. This also fixes the bug making the pixmap look mashed
+	when its created for the first time.
+
+	* X2Dview.c: Tried to make the code more readable ;-)
+

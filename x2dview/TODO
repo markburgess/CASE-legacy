@@ -1,0 +1,6 @@
+* Zooming routine blanks the picture when zooming in on picture which is not 
+drawn in the pixmap.
+
+* Should get a better name for pixx and pixy, which are actually the
+length (in logical coordinates) of one pixel.
+

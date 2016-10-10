@@ -1,0 +1,25 @@
+\input texinfo @c -*-texinfo-*-
+@c %** start of header
+@setfilename cell.info
+@settitle Cellular automaton
+
+@setchapternewpage odd
+@c %** end of header
+@paragraphindent 3
+
+@include version.texi
+@finalout
+
+@titlepage
+@title CASE 
+@subtitle Cellular Automata Simulation Environment
+@subtitle Edition @value{EDITION}
+@subtitle For version @value{VERSION}, @value{UPDATED}
+
+@iftex
+@author J.A. Mikkelsen and T.E. Sevaldrud
+@author Centre of Science and Technology, Oslo College
+
+@end titlepage
+
+@bye

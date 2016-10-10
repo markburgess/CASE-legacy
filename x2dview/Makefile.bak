@@ -1,0 +1,61 @@
+# Generated automatically from Makefile.in by configure.
+#####################################################################
+#
+#   Makefile for X2Dview widget
+#
+#   $Id: Makefile.in,v 1.7 1996/11/25 16:53:04 mark Exp $
+#
+#####################################################################
+
+.SUFFIXES: .C .o .h
+
+HEADERS = trans2d.h X2DviewP.h X2Dview.h converters.h widget_tools.h color.h
+
+OBJ     = X2Dview.o trans2d.o converters.o widget_tools.o color.o
+
+x_includes=/usr/X11R6/include
+x_libraries=/usr/X11R6/lib
+top_srcdir = ../..
+
+LDFLAGS = -lm -lXmu -lXext -lXaw -lXt -lX11 -L$(x_libraries)
+INCLUDE = -I$(x_includes) -I$(top_srcdir) -I. 
+XXINCLUDE = -I/usr/include/g++
+DEFS  = -DHAVE_CONFIG_H
+
+CXX = c++
+CC     = gcc
+CFLAGS = -g -O2
+CPP    = gcc -E
+CXXFLAGS = -g -O2
+CXXCPP = c++ -E
+
+#####################################################################
+# Rules
+######################################################################
+
+libx2dview.a: ${OBJ}
+	ar -cru libx2dview.a ${OBJ}
+
+demo: lib demo.o
+	${CC} ${DEFS} -o $@ demo.o libx2dview.a ${INCLUDE} ${LDFLAGS}
+
+gears: lib gears.o
+	${CXX} ${DEFS} -o $@ gears.o libx2dview.a ${INCLUDE} ${LDFLAGS}
+	${CXX} ${DEFS} -o $@ gears.o libx2dview.a ${INCLUDE} ${XXINCLUDE} ${LDFLAGS}
+
+all: lib demo gears
+
+clean:
+	rm -f *.o *.a
+
+.c.o: 
+	${CC} -c ${CFLAGS} ${DEFS} ${INCLUDE} $<
+
+.C.o: 
+	${CXX} -c ${DEFS} ${INCLUDE} ${XXINCLUDE} $(CXXFLAGS) $(CXXCPP) $< 
+
+depend:
+	makedepend -s"### DEPENDENCIES" -- $(CFLAGS) $(INCLUDE) $(XXINCLUDE) -- *.C *.h 2>/dev/null
+
+### DEPENDENCIES ####################################################
+

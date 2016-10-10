@@ -1,0 +1,38 @@
+autoscan: warning: missing AC_CHECK_FUNCS([strstr]) wanted by: 
+	case/toolkit.C:352
+autoscan: warning: missing AC_CHECK_HEADERS([stdlib.h]) wanted by: 
+	case/CA.h:7
+	case/CA.h:9
+	case/CAApp.C:22
+	case/CAEnvRect.C:13
+	case/CAEnviron.C:13
+	case/CAModel.C:10
+	case/CAProperty.C:13
+	case/CAVisual.C:20
+	case/filereq.C:15
+	case/taglist.C:6
+	case/toolkit.C:11
+	src/TriModel.h:13
+	src/XYBModel.h:13
+	src/XYModel.C:11
+	src/XYModel.h:13
+autoscan: warning: missing AC_CHECK_HEADERS([string.h]) wanted by: 
+	case/filereq.C:10
+autoscan: warning: missing AC_FUNC_LSTAT wanted by: 
+	case/filereq.C:473
+	case/filereq.C:549
+	case/filereq.C:653
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	x2dview/X2Dview.c:326
+	x2dview/X2Dview.c:1569
+	x2dview/X2Dview.c:1576
+	x2dview/X2Dview.c:1585
+	x2dview/X2Dview.c:1623
+	x2dview/X2Dview.c:1630
+	x2dview/demo.c:65
+	x2dview/demo.c:71
+	case/filereq.C:168
+	case/filereq.C:192
+	case/filereq.C:623
+	case/filereq.C:670
+	case/filereq.C:755

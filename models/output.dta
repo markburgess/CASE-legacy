@@ -1,0 +1,545 @@
+Succeeded in loading state from disk
+   alive3 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE -0.450000 n1 0 nn1 1 ns 1 nns 0
+   alive3 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE -0.450000 n1 0 nn1 1 ns 1 nns 0
+   alive3 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE -0.450000 n1 0 nn1 1 ns 1 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE 0.060000 deltaE 0.470000 n1 0 nn1 1 ns 0 nns 1
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.043000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.426000 neighE -0.410000 deltaE 0.036000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.426000 neighE -0.398000 deltaE 0.036000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.426000 neighE 0.090000 deltaE 0.516000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE 0.043000 deltaE -0.433000 n1 1 nn1 0 ns 0 nns 1
+   alive3 bridgeE -0.390000 currentE 0.060000 neighE -0.403000 deltaE -0.450000 n1 0 nn1 1 ns 1 nns 0
+   alive3 bridgeE -0.390000 currentE 0.060000 neighE -0.427000 deltaE -0.450000 n1 0 nn1 1 ns 1 nns 0
+   alive3 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE -0.450000 n1 0 nn1 1 ns 1 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE 0.060000 deltaE 0.463000 n1 0 nn1 1 ns 0 nns 1
+   alive3 bridgeE -0.165500 currentE -0.403000 neighE 0.067000 deltaE 0.470000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.421000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.421000 deltaE 0.031000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.421000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.440000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.403000 neighE 0.043000 deltaE 0.446000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.026000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.398000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.398000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.428000 deltaE 0.038000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.073000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.427000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.403000 deltaE 0.013000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.403000 neighE 0.060000 deltaE 0.463000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.428000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.440000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.073000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.427000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.428000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.043000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.398000 neighE -0.457000 deltaE 0.008000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.398000 neighE -0.433000 deltaE 0.008000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.398000 neighE -0.433000 deltaE 0.008000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.073000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.526000 neighE -0.410000 deltaE 0.436000 n1 1 nn1 0 ns 1 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.427000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.474000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.072000 neighE -0.403000 deltaE 0.013000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.427000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.420000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE 0.090000 neighE -0.433000 deltaE -0.255500 n1 1 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE 0.090000 neighE -0.450000 deltaE -0.255500 n1 1 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.433000 neighE 0.090000 deltaE 0.523000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.398000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.427000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.427000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.428000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.398000 neighE -0.457000 deltaE 0.008000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.398000 neighE -0.433000 deltaE 0.008000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.398000 neighE -0.433000 deltaE 0.008000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.398000 deltaE 0.008000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.433000 neighE 0.090000 deltaE 0.523000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.398000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.457000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.043000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.427000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.428000 neighE -0.403000 deltaE 0.038000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.427000 neighE -0.440000 deltaE 0.037000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.457000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.560000 neighE -0.410000 deltaE 0.470000 n1 1 nn1 0 ns 1 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE 0.060000 deltaE 0.470000 n1 0 nn1 1 ns 0 nns 1
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.427000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.043000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.428000 deltaE 0.038000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.440000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.428000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.403000 neighE 0.060000 deltaE 0.463000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.457000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.403000 neighE 0.060000 deltaE 0.463000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.440000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.428000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE 0.283500 currentE 0.104000 neighE 0.567000 deltaE 0.463000 n1 1 nn1 3 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE 0.104000 neighE -0.421000 deltaE -0.269500 n1 1 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.391000 neighE -0.462000 deltaE 0.001000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.391000 neighE -0.450000 deltaE 0.001000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.391000 neighE 0.074000 deltaE 0.465000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.386000 neighE -0.450000 deltaE -0.004000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.386000 neighE -0.419000 deltaE -0.004000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.386000 neighE -0.467000 deltaE -0.004000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.467000 deltaE 0.077000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.386000 deltaE 0.064000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.560000 neighE -0.403000 deltaE 0.463000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.560000 neighE -0.403000 deltaE 0.463000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.474000 neighE -0.410000 deltaE 0.084000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.386000 deltaE 0.081000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.398000 deltaE 0.077000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.467000 neighE 0.090000 deltaE 0.557000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.560000 neighE -0.403000 deltaE 0.463000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.560000 neighE -0.403000 deltaE 0.463000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.560000 neighE -0.403000 deltaE 0.463000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.560000 neighE -0.403000 deltaE 0.463000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.056000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.114000 neighE -0.467000 deltaE 0.081000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.114000 neighE -0.467000 deltaE 0.081000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.114000 neighE -0.467000 deltaE 0.081000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.427000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.427000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.386000 deltaE 0.081000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.398000 deltaE 0.077000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.467000 neighE 0.090000 deltaE 0.557000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.072000 neighE -0.403000 deltaE 0.013000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.386000 deltaE 0.081000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.398000 deltaE 0.077000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.467000 neighE 0.090000 deltaE 0.557000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.403000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.427000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.560000 neighE -0.410000 deltaE 0.470000 n1 1 nn1 0 ns 1 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.050000 neighE -0.398000 deltaE 0.008000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.043000 neighE -0.398000 deltaE 0.008000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.467000 deltaE 0.077000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.457000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.467000 deltaE 0.077000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.114000 neighE -0.467000 deltaE 0.081000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.386000 deltaE 0.081000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.467000 neighE -0.398000 deltaE 0.077000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.467000 neighE 0.090000 deltaE 0.557000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.114000 neighE -0.467000 deltaE 0.081000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.467000 deltaE 0.077000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.474000 deltaE 0.084000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.398000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.440000 deltaE 0.050000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.560000 neighE -0.410000 deltaE 0.470000 n1 1 nn1 0 ns 1 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.457000 neighE -0.410000 deltaE 0.067000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.067000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.060000 neighE -0.410000 deltaE 0.020000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.457000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.433000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.097000 neighE -0.445000 deltaE 0.055000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.457000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.573000 neighE -0.450000 deltaE 0.523000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.573000 neighE -0.433000 deltaE 0.506000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.433000 deltaE 0.523000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.165500 currentE 0.590000 neighE -0.450000 deltaE 0.540000 n1 2 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.410000 neighE -0.440000 deltaE 0.020000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.426000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.403000 neighE -0.445000 deltaE 0.013000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.403000 neighE 0.043000 deltaE 0.446000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.410000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.450000 neighE 0.090000 deltaE 0.540000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.450000 neighE -0.398000 deltaE 0.060000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.457000 deltaE 0.067000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.426000 neighE -0.403000 deltaE 0.036000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.426000 neighE 0.102000 deltaE 0.528000 n1 0 nn1 2 ns 0 nns 0
+   alive3 bridgeE -0.165500 currentE -0.426000 neighE 0.085000 deltaE 0.511000 n1 0 nn1 2 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.090000 neighE -0.450000 deltaE 0.060000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.433000 neighE -0.410000 deltaE 0.043000 n1 0 nn1 1 ns 0 nns 0
+notalive4 bridgeE -0.390000 currentE 0.102000 neighE -0.433000 deltaE 0.043000 n1 1 nn1 0 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0
+   alive3 bridgeE -0.390000 currentE -0.440000 neighE -0.410000 deltaE 0.050000 n1 0 nn1 1 ns 0 nns 0

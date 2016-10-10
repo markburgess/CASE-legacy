@@ -1,0 +1,66 @@
+# Generated automatically from Makefile.in by configure.
+#####################################################################
+#
+#   Makefile 
+#
+#####################################################################
+
+.SUFFIXES: .C .o .h
+
+#
+# Directory where CASE is.
+#
+ 
+srcdir = .
+top_srcdir = ../..
+x_libraries=/usr/X11R6/lib
+x_includes=/usr/X11R6/include
+
+#
+# Where are g++ include files on this system?
+#
+
+HEADERS = CAApp.h CACell.h CAEnviron.h CAModel.h CAProperty.h CAReq.h \
+	CASymbol.h CAVisual.h menu.h toolkit.h taglist.h types.h
+
+OBJ = CAApp.o CACell.o CAEnviron.o CAEnvRect.o CAEnvTri.o CAModel.o CAProperty.o CAReq.o \
+	CASymbol.o CAVisual.o menu.o toolkit.o taglist.o
+
+LDFLAGS= -lm -lXmu -lXext -lXaw -lXt -lX11 -L$(x_libraries)
+
+INCLUDE= -I/usr/include/g++ -I$(top_srcdir) -I$(srcdir) -I$(top_srcdir)/lib/x2dview -I$(x_includes)
+
+#
+# Note - g++ installation defines gettimeofday with incorrect type
+# in g++ types.h. This must be fixed manually in the g++ file
+#
+
+DEFS = -DHAVE_CONFIG_H
+CXX = c++
+CC = gcc
+CPP = gcc -E
+CXXFLAGS = -g -O2
+CXXCPP = c++ -E
+CFLAGS = -g -O2
+
+#####################################################################
+# Rules
+#####################################################################
+
+libCA.a: ${OBJ} $(top_srcdir)/lib/x2dview/libx2dview.a
+	ar -cru $@ ${OBJ}
+
+.c.o: 
+	${CC} -w -c ${DEFS} ${INCLUDE} $(CPP) $<
+
+.C.o: 
+	${CXX} -w -c ${DEFS} ${INCLUDE} $(CXXFLAGS) $<
+
+clean:
+	rm -f core `find . -name '*.[oa]' -print`
+
+depend:
+	makedepend -s"### DEPENDENCIES" -- $(CFLAGS) $(INCLUDE) -- *.C *.h 2>/dev/null
+
+### DEPENDENCIES ####################################################
+

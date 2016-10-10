@@ -1,0 +1,46 @@
+# Process this file with autoconf to produce a configure script.
+AC_INIT(FULL-PACKAGE-NAME, VERSION, BUG-REPORT-ADDRESS)
+AC_CONFIG_SRCDIR([conf.h.in])
+AC_CONFIG_HEADER([config.h])
+
+# Checks for programs.
+AC_PROG_CXX
+AC_PROG_CC
+AC_PROG_INSTALL
+AC_PROG_MAKE_SET
+AC_PROG_AWK
+AC_PROG_RANLIB
+
+# Checks for libraries.
+# FIXME: Replace `main' with a function in `-lCA':
+AC_CHECK_LIB([CA], [main])
+# FIXME: Replace `main' with a function in `-le':
+AC_CHECK_LIB([e], [main])
+# FIXME: Replace `main' with a function in `-links':
+AC_CHECK_LIB([inks], [main])
+# FIXME: Replace `main' with a function in `-lm':
+AC_CHECK_LIB([m], [main])
+# FIXME: Replace `main' with a function in `-lx2dview':
+AC_CHECK_LIB([x2dview], [main])
+
+# Checks for header files.
+AC_PATH_X
+AC_HEADER_DIRENT
+AC_HEADER_STDC
+AC_CHECK_HEADERS([stdlib.h string.h unistd.h])
+
+# Checks for typedefs, structures, and compiler characteristics.
+AC_C_CONST
+
+# Checks for library functions.
+AC_FUNC_LSTAT
+AC_FUNC_MALLOC
+AC_FUNC_VPRINTF
+AC_CHECK_FUNCS([bzero floor getcwd pow sqrt strstr])
+
+AC_CONFIG_FILES([Makefile
+                 case/Makefile
+                 doc/Makefile
+                 src/Makefile
+                 x2dview/Makefile])
+AC_OUTPUT

@@ -1,0 +1,22 @@
+
+The use of defaults in constructor declarations confuses the compiler in some
+cases and causes it to FAIL to recoignize the correct constructor. This
+can lead to segmentation faults if one just write
+
+  grid = new CATriangularGrid;
+
+(without the implicit arguments);
+
+
+----------------
+
+The are two many functions posing as being general which are really tied
+to a rectangular geometry. I have started to remove some of these.
+Things like CornerCellsXY etc. They have no place in a triangular
+geometry.
+
+------
+
+Someone has mixed up rows and columns in CASE.
+
+Mark 28/1/97

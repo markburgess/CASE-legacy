@@ -1,0 +1,59 @@
+Double-buffering
+================
+
+The principle of double-buffering is that you draw to an invisible
+page and making the page visible when the drawing is finished. In the
+X2DviewWidget the 'invisible page' is referred to as the 'back page',
+and the visible one as the 'front page'. All drawing operations are
+made in a 'current page'. This current page may ether be the front or
+the back page. To toggle these two pages we have two functions,
+X2DcurrentPageBack and X2DcurrentPageFront. So an animated drawing
+sequence should go like this:
+
+X2DcurrentPageBack(w);
+X2DdrawStuff(w, params);
+X2DcurrentPageFront(w);
+
+Functions:
+
+X2DcurrentPageBack(Widget w)
+
+w is the X2Dview widget.
+
+This function sets the current drawing page to be the back page,
+i.e. hidden. All following drawing operations will go to the back
+page.
+
+ 
+X2DcurrentPageFront(Widget w)
+
+w is the X2Dview widget.
+
+This function sets the current drawing page to be the front page,
+and the contents of the back page is displayed. All following 
+drawing operations will go to the front page.
+
+Drawing Modes
+=============
+
+The X2Dview widget has two drawing modes. You can either draw to the
+window only, or you can draw to both the window and a pixmap which is
+stored in the widget. When drawing to the window, the graphics in it
+will be destroyed when the window has been obscured by another
+window. If you draw to the pixmap as well, the graphics in the window 
+will be copied from the pixmap when the window is obscured and
+subsequently exposed, thus restoring the graphics image. 
+
+You could also bind a redraw routine to the redrawCallback routine for
+updating the graphics after an expose event. In this case the drawing
+will be redone for each expose event. In this case the pixmap drawing
+mode would be unnecessary. But this is of course not very practical
+when the drawing routine involves heavy rendering, like for instance
+in a fractal program.
+
+Functions:
+
+void X2DdrawPixmapOn(Widget w)
+void X2DdrawPixmapOff(Widget w)
+
+these functions turns pixmap drawing on or off for the widget w. 

@@ -1,0 +1,37 @@
+Fri Aug 30 22:09:04 1996  Thomas Engh Sevaldrud  <thomas@raistlin.ppp.sn.no (Thomas Engh Sevaldrud)>
+
+	* CASymbol.C (Draw): changed "abs()" to "fabs()".
+
+Wed Mar 27 15:15:26 1996  Cellular Automaton Projec  <cell@borg (Cellular Automaton Projec)>
+
+	* toolkit.C (AddBitmapToWidget): New utility function for adding a
+	bitmap image to a Widget. 
+
+Wed Mar 20 14:25:48 1996  Thomas Engh Sevaldrud  <thomas@gandalf.sn.no (Thomas Engh Sevaldrud)>
+
+	* CAEnviron.C (QueryPolygon): Returns a polygon object instead of
+	two arrays of double (to avoid memory leak).
+
+Wed Mar 20 14:47:50 1996  Thomas Engh Sevaldrud  <sevaldt@borg (Thomas Engh Sevaldrud)>
+
+	* CAEnviron.h (CAEnviron): Metdod QueryCircle returns the largest
+	circle which can be drawn inside one given cell in a given grid. 
+
+Wed Feb 21 13:54:46 1996  Cellular Automaton Projec  <cell@daystrom.iu.hioslo.no (Cellular Automaton Projec)>
+
+	* CAProperty.C (InitWidgets): Adds a dialog widget to the base
+	requester below.
+
+	* CACell.C (SetupRequester): Sets up a basic requester for Cell
+	properties, constisting of toplevel, form, and OK/Cancel-buttons.
+
+	* CAEnviron.C (QueryPosition): Querying of cell position
+	implemented for rectangular grid. 
+
+	* CAEnviron.h: Partially implemented class objects for CAGrid and
+	CARectangularGrid. 
+
+Wed Feb 14 14:18:13 1996  Cellular Automaton Projec  <cell@borg.iu.hioslo.no>
+
+	* CAModel.h (CAModel): Initial file 
+

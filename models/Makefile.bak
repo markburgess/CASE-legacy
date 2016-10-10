@@ -1,0 +1,48 @@
+# Generated automatically from Makefile.in by configure.
+#
+#  Makefile for working applications
+#
+#  The target model is called CASE-model
+
+
+.SUFFIXES: .C .o .h
+
+OBJ = CASE-model.o XYModel.o XYCell.o GoLModel.o GoLCell.o XYBModel.o XYBCell.o TriModel.o TriCell.o \
+      DiffModel.o Periodic.o ThermoCell.o TriPattern.o Particle.o Palladium.o ParticleModel.o
+
+x_includes=/usr/X11R6/include
+x_libraries=/usr/X11R6/lib
+
+LDFLAGS= -lCA -lx2dview -lm -lXmu -lXext -lXaw -lXt -lX11 -L../lib/x2dview -L../lib/case -L$(x_libraries)  
+INCLUDE= -I$(x_includes) -I/usr/include/g++ -I../lib/case -I. -I../lib/x2dview -I..
+
+DEFS = -DHAVE_CONFIG_H
+CXX = c++
+CC     = gcc
+CPP    = gcc -E
+CFLAGS = -g -O2
+CXXFLAGS = -g -O2
+
+CXXCPP = c++ -E
+
+#####################################################################
+# Rules
+#####################################################################
+
+CASE-model: ${OBJ} ../lib/case/libCA.a ../lib/x2dview/libx2dview.a
+	${CXX} -o $@ ${OBJ} ${LDFLAGS}
+	chmod 755 CASE-model
+
+.c.o:
+	${CC} -w -c ${DEFS} ${INCLUDE} $<
+.C.o:
+	${CXX} -w -c ${DEFS} ${INCLUDE} $(CXXFLAGS) $< -I.
+
+clean:
+	rm -f core testapp `find . -name '*.[oa]' -print`
+
+depend:
+	makedepend -s"### DEPENDENCIES" -- $(CFLAGS) $(INCLUDE) -- *.C *.h 2>/dev/null
+### DEPENDENCIES ####################################################
+
+
